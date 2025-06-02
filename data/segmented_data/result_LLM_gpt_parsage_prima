@@ -1,0 +1,332 @@
+{
+    "menu": {
+        "sections": [
+            {
+                "name": "ANTIPASTI",
+                "items": [
+                    {
+                        "name": "Bruschettas",
+                        "price": {
+                            "value": 8,
+                            "currency": null
+                        },
+                        "description": "Poire pochée, gorgonzola, noisettes/coeur de Burrata, asperges/Bufala, Speck, crème de balsamique et tomates confites"
+                    },
+                    {
+                        "name": "Légumes grillés marinés Balsamico di Modena",
+                        "price": {
+                            "value": 7,
+                            "currency": null
+                        },
+                        "description": "Poivrons, tomates, aubergines, courgettes, artichauts"
+                    },
+                    {
+                        "name": "Gorgonzola fondante, à la louche carrément !",
+                        "price": {
+                            "value": 7,
+                            "currency": null
+                        },
+                        "description": "Chutney de poire et balsamique blanc"
+                    },
+                    {
+                        "name": "Mozzarella di Bufala 125g/250g",
+                        "price": {
+                            "value": 7.5,
+                            "currency": null
+                        },
+                        "description": "Servie avec nos huiles d'olive maison"
+                    },
+                    {
+                        "name": "Mozzarella di Burrata 125g/200g",
+                        "price": {
+                            "value": 8,
+                            "currency": null
+                        },
+                        "description": "Servie avec nos huiles d'olive maison"
+                    },
+                    {
+                        "name": "Rital cochonnailles",
+                        "price": {
+                            "value": 9,
+                            "currency": null
+                        },
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "name": "INSALATE",
+                "items": [
+                    {
+                        "name": "Ave Caesar",
+                        "price": {
+                            "value": 12.5,
+                            "currency": null
+                        },
+                        "description": "Salade romaine, sauce caesar, pancetta grillée, suprême de volaille, oeuf poché, croûtons, parmesan"
+                    },
+                    {
+                        "name": "La Prima Donna",
+                        "price": {
+                            "value": 12.5,
+                            "currency": null
+                        },
+                        "description": "Toast chaud de gorgonzola, noisettes grillées, chiffonade de Coppa, balsamique blanc, miel et huile d'olive"
+                    },
+                    {
+                        "name": "Verdure Burrata",
+                        "price": {
+                            "value": 13,
+                            "currency": null
+                        },
+                        "description": "Légumes marinés, Burrata, pignons de pain, pesto Genovese"
+                    }
+                ]
+            },
+            {
+                "name": "CARNE",
+                "items": [
+                    {
+                        "name": "Crazy Milanaise",
+                        "price": {
+                            "value": 20,
+                            "currency": null
+                        },
+                        "description": "Escalope de veau panée (noisettes, ail, oignons frits, thym, origan, persil)"
+                    },
+                    {
+                        "name": "Tartare de boeuf",
+                        "price": {
+                            "value": 14,
+                            "currency": null
+                        },
+                        "description": "Boeuf Charolais au couteau, huile de noisette, tomates confites, persil, cornichons, pignons de pin, câpres, parmesan, frites maison, salade"
+                    },
+                    {
+                        "name": "Carpaccio de boeuf",
+                        "price": {
+                            "value": 12.5,
+                            "currency": null
+                        },
+                        "description": "Huile d'olive, balsamique, roquette, parmesan, frites maison, salade"
+                    },
+                    {
+                        "name": "Vitello tonnato",
+                        "price": {
+                            "value": 12,
+                            "currency": null
+                        },
+                        "description": "Quasi de veau en fines tranches, marinade au thon et aux anchois, huile d'olive"
+                    }
+                ]
+            },
+            {
+                "name": "PASTA",
+                "items": [
+                    {
+                        "name": "Caponata della Nonna",
+                        "price": {
+                            "value": 12,
+                            "currency": null
+                        },
+                        "description": "Pasta Rigate, confit de légumes, pignons de pin, amandes, raisins secs, coeur de Burrata"
+                    },
+                    {
+                        "name": "Rigatoni all'amatriciana",
+                        "price": {
+                            "value": 12,
+                            "currency": null
+                        },
+                        "description": "Tomates San Marzano D.O.P, pancetta, piments, fromage Pecorino di Amatrice"
+                    },
+                    {
+                        "name": "Fusilli giganti alla Puttanesca",
+                        "price": {
+                            "value": 12,
+                            "currency": null
+                        },
+                        "description": "Sauce piquante, tomates cerises, anchois, parmesan, mozzarella di Bufala"
+                    },
+                    {
+                        "name": "La pâte à la truffe",
+                        "price": {
+                            "value": 14,
+                            "currency": null
+                        },
+                        "description": "Crème de truffe noire, crème, parmesan"
+                    },
+                    {
+                        "name": "Pesto forever",
+                        "price": {
+                            "value": 14,
+                            "currency": null
+                        },
+                        "description": "Le vrai pesto de Genovese, coeur de Burrata"
+                    },
+                    {
+                        "name": "Gnocchi ai funghi, guanciale",
+                        "price": {
+                            "value": 13,
+                            "currency": null
+                        },
+                        "description": "Crème de champignons, joue de porc grillée, parmesan"
+                    }
+                ]
+            },
+            {
+                "name": "Dolci",
+                "items": [
+                    {
+                        "name": "Pizzetta tressée au Nutella",
+                        "price": {
+                            "value": 7,
+                            "currency": null
+                        },
+                        "description": ""
+                    },
+                    {
+                        "name": "Tiramisu",
+                        "price": {
+                            "value": 7,
+                            "currency": null
+                        },
+                        "description": ""
+                    },
+                    {
+                        "name": "Baba au rhum, mousseline au limoncello",
+                        "price": {
+                            "value": 6,
+                            "currency": null
+                        },
+                        "description": ""
+                    },
+                    {
+                        "name": "Mousse al cioccolato della Nonna",
+                        "price": {
+                            "value": 6,
+                            "currency": null
+                        },
+                        "description": ""
+                    },
+                    {
+                        "name": "Panna cotta, soupe de fruits de saison",
+                        "price": {
+                            "value": 6,
+                            "currency": null
+                        },
+                        "description": ""
+                    },
+                    {
+                        "name": "Café gourmand",
+                        "price": {
+                            "value": 8,
+                            "currency": null
+                        },
+                        "description": "Gorgonzola fondante, à la louche carrément ! Chutney de poire et balsamique blanc"
+                    }
+                ]
+            },
+            {
+                "name": "PRZE",
+                "items": [
+                    {
+                        "name": "Primargherita",
+                        "price": {
+                            "value": 11,
+                            "currency": null
+                        },
+                        "description": "Tomates San Marzano D.O.P, mozzarella, Bufala, basilic, olives Taggiasche"
+                    },
+                    {
+                        "name": "Regina",
+                        "price": {
+                            "value": 12.5,
+                            "currency": null
+                        },
+                        "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, champignons, jambon Rostello, olives"
+                    },
+                    {
+                        "name": "Tartufata",
+                        "price": {
+                            "value": 15,
+                            "currency": null
+                        },
+                        "description": "Mozzarella Fior di Latte, champignons, crème de truffe noire, parmesan, ciboulette"
+                    },
+                    {
+                        "name": "Veggie lovers",
+                        "price": {
+                            "value": 15,
+                            "currency": null
+                        },
+                        "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, légumes marinés, Bufala, crème de balsamique, roquette"
+                    },
+                    {
+                        "name": "Cinque formaggi, quatre fromages +1",
+                        "price": {
+                            "value": 15.5,
+                            "currency": null
+                        },
+                        "description": "Crème, mozzarella Fior di Latte, gorgonzola, Pecorino, Provolone, coeur de Burrata, roquette"
+                    },
+                    {
+                        "name": "Ô mon cochon",
+                        "price": {
+                            "value": 16,
+                            "currency": null
+                        },
+                        "description": "Crème, mozzarella Fior di Latte, champignons, Burrata, Guanciale (joue de porc)"
+                    },
+                    {
+                        "name": "La Materazzi",
+                        "price": {
+                            "value": 14,
+                            "currency": null
+                        },
+                        "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, Speck, pignons de pin, parmesan, crème de balsamique, coup de tête de roquette"
+                    },
+                    {
+                        "name": "Cicciolina (c'est chaud !!! )",
+                        "price": {
+                            "value": 13,
+                            "currency": null
+                        },
+                        "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, poivrons, Spianata Calabrese (saucisson piquant), roquette, crème de balsamique"
+                    },
+                    {
+                        "name": "Courgettes with love",
+                        "price": {
+                            "value": 12.5,
+                            "currency": null
+                        },
+                        "description": "Crème, mozzarella Fior di Latte, courgettes, crème de balsamique, coeur de Burrata, graines de courge, fromage Pecorino"
+                    },
+                    {
+                        "name": "Red Hot Chili Biquette",
+                        "price": {
+                            "value": 13.5,
+                            "currency": null
+                        },
+                        "description": "Crème, mozzarella Fior di Latte, salame piccante, ricotta de brebis, oignons rouges"
+                    },
+                    {
+                        "name": "Buffalo Bufala",
+                        "price": {
+                            "value": 15,
+                            "currency": null
+                        },
+                        "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, boeuf, Bufala, basilic, œuf poché"
+                    },
+                    {
+                        "name": "La Reine des truffes",
+                        "price": {
+                            "value": 18,
+                            "currency": null
+                        },
+                        "description": "Mozzarella Fior di Latte, crème de truffe noire, champignons, jambon aux truffes, pignons de pin"
+                    }
+                ]
+            }
+        ]
+    }
+}

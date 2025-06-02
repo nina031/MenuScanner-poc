@@ -1,0 +1,189 @@
+{
+    "menu": {
+        "sections": [
+            {
+                "name": "Classiques",
+                "items": [
+                    {
+                        "name": "VERDURA",
+                        "price": {
+                            "value": 12.9,
+                            "currency": "€"
+                        },
+                        "description": "tomate, aubergines grillées, poivrons grillés, champignons de Paris, oignons rouges, olives Leccine, huile de basilic, mozzarella",
+                        "ingredients": [
+                            "tomate",
+                            "aubergines grillées",
+                            "poivrons grillés",
+                            "champignons de Paris",
+                            "oignons rouges",
+                            "olives Leccine",
+                            "huile de basilic",
+                            "mozzarella"
+                        ],
+                        "dietary": [
+                            "végétarien"
+                        ]
+                    },
+                    {
+                        "name": "MIELINA",
+                        "price": {
+                            "value": 12.9,
+                            "currency": "€"
+                        },
+                        "description": "crème, chèvre, miel, mozzarella",
+                        "ingredients": [
+                            "crème",
+                            "chèvre",
+                            "miel",
+                            "mozzarella"
+                        ],
+                        "dietary": []
+                    },
+                    {
+                        "name": "TARTUFO",
+                        "price": {
+                            "value": 14.9,
+                            "currency": "€"
+                        },
+                        "description": "crème de truffes et champignons, mozzarella (après cuisson, roquette, bresaola, copeaux de parmesan AOC)",
+                        "ingredients": [
+                            "crème de truffes",
+                            "champignons",
+                            "mozzarella",
+                            "roquette",
+                            "bresaola",
+                            "copeaux de parmesan AOC"
+                        ],
+                        "dietary": []
+                    },
+                    {
+                        "name": "MARGHERITA",
+                        "price": {
+                            "value": 9.9,
+                            "currency": "€"
+                        },
+                        "description": "tomate, olives Leccine, huile de basilic, mozzarella",
+                        "ingredients": [
+                            "tomate",
+                            "olives Leccine",
+                            "huile de basilic",
+                            "mozzarella"
+                        ],
+                        "dietary": [
+                            "végétarien"
+                        ]
+                    },
+                    {
+                        "name": "REGINA",
+                        "price": {
+                            "value": 11.9,
+                            "currency": "€"
+                        },
+                        "description": "tomate, jambon blanc italien, champignons de Paris, olives Leccine, huile de basilic, mozzarella",
+                        "ingredients": [
+                            "tomate",
+                            "jambon blanc italien",
+                            "champignons de Paris",
+                            "olives Leccine",
+                            "huile de basilic",
+                            "mozzarella"
+                        ],
+                        "dietary": []
+                    },
+                    {
+                        "name": "PARMA",
+                        "price": {
+                            "value": 14.9,
+                            "currency": "€"
+                        },
+                        "description": "tomate, huile de basilic, mozzarella (après cuisson, roquette, jambon de Parme, burrata, tomates cerises, copeaux de parmesan AOC, crème de balsamique)",
+                        "ingredients": [
+                            "tomate",
+                            "huile de basilic",
+                            "mozzarella",
+                            "roquette",
+                            "jambon de Parme",
+                            "burrata",
+                            "tomates cerises",
+                            "copeaux de parmesan AOC",
+                            "crème de balsamique"
+                        ],
+                        "dietary": []
+                    },
+                    {
+                        "name": "QUATTRO FORMAGGI",
+                        "price": {
+                            "value": 12.0,
+                            "currency": "€"
+                        },
+                        "description": "tomate, taleggio AOC, gorgonzola DOP, parmigiano AOC, mozzarella",
+                        "ingredients": [
+                            "tomate",
+                            "taleggio AOC",
+                            "gorgonzola DOP",
+                            "parmigiano AOC",
+                            "mozzarella"
+                        ],
+                        "dietary": [
+                            "végétarien"
+                        ]
+                    },
+                    {
+                        "name": "CALZONE CLASSICA",
+                        "price": {
+                            "value": 12.9,
+                            "currency": "€"
+                        },
+                        "description": "tomate, jambon blanc italien, oeuf, champignons de Paris, huile de basilic, mozzarella",
+                        "ingredients": [
+                            "tomate",
+                            "jambon blanc italien",
+                            "oeuf",
+                            "champignons de Paris",
+                            "huile de basilic",
+                            "mozzarella"
+                        ],
+                        "dietary": []
+                    },
+                    {
+                        "name": "MARCELLO",
+                        "price": {
+                            "value": 14.9,
+                            "currency": "€"
+                        },
+                        "description": "crème, gorgonzola DOP, coppa, huile de basilic, mozzarella (après cuisson, jambon de Parme)",
+                        "ingredients": [
+                            "crème",
+                            "gorgonzola DOP",
+                            "coppa",
+                            "huile de basilic",
+                            "mozzarella",
+                            "jambon de Parme"
+                        ],
+                        "dietary": []
+                    },
+                    {
+                        "name": "QUATTRO STAGIONI",
+                        "price": {
+                            "value": 13.9,
+                            "currency": "€"
+                        },
+                        "description": "tomate, jambon blanc, artichauts à la romaine, aubergines grillées, poivrons grillés, oignons rouges, huile de basilic, mozzarella",
+                        "ingredients": [
+                            "tomate",
+                            "jambon blanc",
+                            "artichauts à la romaine",
+                            "aubergines grillées",
+                            "poivrons grillés",
+                            "oignons rouges",
+                            "huile de basilic",
+                            "mozzarella"
+                        ],
+                        "dietary": []
+                    }
+                ]
+            }
+        ]
+    }
+}
