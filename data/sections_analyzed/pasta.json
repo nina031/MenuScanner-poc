@@ -1,0 +1,101 @@
+{
+    "name": "PASTA",
+    "items": [
+        {
+            "name": "Caponata della Nonna",
+            "price": {
+                "value": 12.0,
+                "currency": "€"
+            },
+            "description": "Pâtes avec raisins secs et cœur de Burrata",
+            "ingredients": [
+                "raisins secs",
+                "burrata"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Rigatoni all'amatriciana",
+            "price": {
+                "value": 12.0,
+                "currency": "€"
+            },
+            "description": "Rigatoni avec tomates San Marzano D.O.P, pancetta, piments et fromage Pecorino di Amatrice",
+            "ingredients": [
+                "rigatoni",
+                "tomates San Marzano D.O.P",
+                "pancetta",
+                "piments",
+                "pecorino di Amatrice"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Fusilli giganti alla Puttanesca",
+            "price": {
+                "value": 12.0,
+                "currency": "€"
+            },
+            "description": "Fusilli avec sauce piquante, tomates cerises, anchois, parmesan et mozzarella di Bufala",
+            "ingredients": [
+                "fusilli",
+                "sauce piquante",
+                "tomates cerises",
+                "anchois",
+                "parmesan",
+                "mozzarella di Bufala"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "La pâte à la truffe",
+            "price": {
+                "value": 14.0,
+                "currency": "€"
+            },
+            "description": "Pâtes avec crème de truffe noire, crème et parmesan",
+            "ingredients": [
+                "pâtes",
+                "crème de truffe noire",
+                "crème",
+                "parmesan"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Pesto forever",
+            "price": {
+                "value": 14.0,
+                "currency": "€"
+            },
+            "description": "Pâtes au vrai pesto de Genovese avec cœur de Burrata",
+            "ingredients": [
+                "pâtes",
+                "pesto Genovese",
+                "burrata"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Gnocchi ai funghi, guanciale",
+            "price": {
+                "value": 13.0,
+                "currency": "€"
+            },
+            "description": "Gnocchi avec crème de champignons, joue de porc grillée et parmesan",
+            "ingredients": [
+                "gnocchi",
+                "crème de champignons",
+                "guanciale",
+                "parmesan"
+            ],
+            "dietary": []
+        }
+    ]
+}

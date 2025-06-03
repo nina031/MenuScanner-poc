@@ -1,0 +1,78 @@
+{
+    "name": "CARNE",
+    "items": [
+        {
+            "name": "Crazy Milanaise",
+            "price": {
+                "value": 20.0,
+                "currency": "€"
+            },
+            "description": "Escalope de veau panée avec noisettes, ail, oignons frits, thym, origan, persil",
+            "ingredients": [
+                "veau",
+                "noisettes",
+                "ail",
+                "oignons",
+                "thym",
+                "origan",
+                "persil",
+                "chapelure"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Tartare de boeuf",
+            "price": {
+                "value": 14.0,
+                "currency": "€"
+            },
+            "description": "Boeuf Charolais au couteau, huile de noisette, tomates confites, persil, cornichons, pignons de pin, câpres, parmesan, frites maison, salade",
+            "ingredients": [
+                "boeuf charolais",
+                "huile de noisette",
+                "tomates confites",
+                "persil",
+                "cornichons",
+                "pignons de pin",
+                "câpres",
+                "parmesan",
+                "pommes de terre",
+                "salade"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Carpaccio de boeuf",
+            "price": {
+                "value": 12.5,
+                "currency": "€"
+            },
+            "description": "Huile d'olive, balsamique, roquette, parmesan, frites maison, salade",
+            "ingredients": [
+                "boeuf",
+                "huile d'olive",
+                "vinaigre balsamique",
+                "roquette",
+                "parmesan",
+                "pommes de terre",
+                "salade"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Vitello tonnato",
+            "price": {
+                "value": 12.0,
+                "currency": "€"
+            },
+            "description": "Quasi de veau en fines tranches, marinade au thon et aux anchois, huile d'olive",
+            "ingredients": [
+                "veau",
+                "thon",
+                "anchois",
+                "huile d'olive"
+            ],
+            "dietary": []
+        }
+    ]
+}

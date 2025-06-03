@@ -1,0 +1,103 @@
+{
+    "name": "ANTIPASTI",
+    "items": [
+        {
+            "name": "1, 2, 3 Bruschettas",
+            "price": {
+                "value": 8.0,
+                "currency": "€"
+            },
+            "description": "Trois variations de bruschetta : poire pochée avec gorgonzola et noisettes, cœur de burrata avec asperges, et mozzarella di bufala avec speck, crème de balsamique et tomates confites",
+            "ingredients": [
+                "poire",
+                "gorgonzola",
+                "noisettes",
+                "burrata",
+                "asperges",
+                "bufala",
+                "speck",
+                "crème de balsamique",
+                "tomates confites"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Légumes grillés marinés Balsamico di Modena",
+            "price": {
+                "value": 7.0,
+                "currency": "€"
+            },
+            "description": "Assortiment de légumes grillés marinés au vinaigre balsamique de Modène : poivrons, tomates, aubergines, courgettes, artichauts",
+            "ingredients": [
+                "poivrons",
+                "tomates",
+                "aubergines",
+                "courgettes",
+                "artichauts",
+                "balsamico di Modena"
+            ],
+            "dietary": [
+                "végétarien",
+                "végétalien"
+            ]
+        },
+        {
+            "name": "Gorgonzola fondante",
+            "price": {
+                "value": 7.0,
+                "currency": "€"
+            },
+            "description": "Gorgonzola fondu servi à la louche avec chutney de poire et balsamique blanc",
+            "ingredients": [
+                "gorgonzola",
+                "poire",
+                "balsamique blanc"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Mozzarella di Bufala",
+            "price": {
+                "value": 7.5,
+                "currency": "€"
+            },
+            "description": "Mozzarella di Bufala servie avec huiles d'olive maison. Disponible en 125g ou 250g (7,50€/12,50€)",
+            "ingredients": [
+                "mozzarella di bufala",
+                "huile d'olive"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Mozzarella di Burrata",
+            "price": {
+                "value": 8.0,
+                "currency": "€"
+            },
+            "description": "Mozzarella di Burrata servie avec huiles d'olive maison. Disponible en 125g ou 200g (8€/11,50€)",
+            "ingredients": [
+                "burrata",
+                "huile d'olive"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Rital cochonnailles",
+            "price": {
+                "value": 9.0,
+                "currency": "€"
+            },
+            "description": "Assortiment de charcuteries italiennes",
+            "ingredients": [
+                "charcuteries italiennes"
+            ],
+            "dietary": []
+        }
+    ]
+}

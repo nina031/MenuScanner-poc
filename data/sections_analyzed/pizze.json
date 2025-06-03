@@ -1,0 +1,216 @@
+{
+    "name": "PIZZE",
+    "items": [
+        {
+            "name": "Primargherita",
+            "price": {
+                "value": 11.0,
+                "currency": "€"
+            },
+            "description": "Tomates San Marzano D.O.P, mozzarella, Bufala, basilic, olives Taggiasche",
+            "ingredients": [
+                "tomates San Marzano D.O.P",
+                "mozzarella",
+                "Bufala",
+                "basilic",
+                "olives Taggiasche"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Regina",
+            "price": {
+                "value": 12.5,
+                "currency": "€"
+            },
+            "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, champignons, jambon Rostello, olives",
+            "ingredients": [
+                "tomates San Marzano D.O.P",
+                "mozzarella Fior di Latte",
+                "champignons",
+                "jambon Rostello",
+                "olives"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Tartufata",
+            "price": {
+                "value": 15.0,
+                "currency": "€"
+            },
+            "description": "Mozzarella Fior di Latte, champignons, crème de truffe noire, parmesan, ciboulette",
+            "ingredients": [
+                "mozzarella Fior di Latte",
+                "champignons",
+                "crème de truffe noire",
+                "parmesan",
+                "ciboulette"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Veggie lovers",
+            "price": {
+                "value": 15.0,
+                "currency": "€"
+            },
+            "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, légumes marinés, Bufala, crème de balsamique, roquette",
+            "ingredients": [
+                "tomates San Marzano D.O.P",
+                "mozzarella Fior di Latte",
+                "légumes marinés",
+                "Bufala",
+                "crème de balsamique",
+                "roquette"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Cinque formaggi",
+            "price": {
+                "value": 15.5,
+                "currency": "€"
+            },
+            "description": "Crème, mozzarella Fior di Latte, gorgonzola, Pecorino, Provolone, coeur de Burrata, roquette",
+            "ingredients": [
+                "crème",
+                "mozzarella Fior di Latte",
+                "gorgonzola",
+                "Pecorino",
+                "Provolone",
+                "Burrata",
+                "roquette"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Ô mon cochon",
+            "price": {
+                "value": 16.0,
+                "currency": "€"
+            },
+            "description": "Crème, mozzarella Fior di Latte, champignons, Burrata, Guanciale (joue de porc)",
+            "ingredients": [
+                "crème",
+                "mozzarella Fior di Latte",
+                "champignons",
+                "Burrata",
+                "Guanciale"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "La Materazzi",
+            "price": {
+                "value": 14.0,
+                "currency": "€"
+            },
+            "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, Speck, pignons de pin, parmesan, crème de balsamique, roquette",
+            "ingredients": [
+                "tomates San Marzano D.O.P",
+                "mozzarella Fior di Latte",
+                "Speck",
+                "pignons de pin",
+                "parmesan",
+                "crème de balsamique",
+                "roquette"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Cicciolina",
+            "price": {
+                "value": 13.0,
+                "currency": "€"
+            },
+            "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, poivrons, Spianata Calabrese (saucisson piquant), roquette, crème de balsamique",
+            "ingredients": [
+                "tomates San Marzano D.O.P",
+                "mozzarella Fior di Latte",
+                "poivrons",
+                "Spianata Calabrese",
+                "roquette",
+                "crème de balsamique"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Courgettes with love",
+            "price": {
+                "value": 12.5,
+                "currency": "€"
+            },
+            "description": "Crème, mozzarella Fior di Latte, courgettes, crème de balsamique, coeur de Burrata, graines de courge, fromage Pecorino",
+            "ingredients": [
+                "crème",
+                "mozzarella Fior di Latte",
+                "courgettes",
+                "crème de balsamique",
+                "Burrata",
+                "graines de courge",
+                "Pecorino"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        },
+        {
+            "name": "Red Hot Chili Biquette",
+            "price": {
+                "value": 13.5,
+                "currency": "€"
+            },
+            "description": "Crème, mozzarella Fior di Latte, salame piccante, ricotta de brebis, oignons rouges",
+            "ingredients": [
+                "crème",
+                "mozzarella Fior di Latte",
+                "salame piccante",
+                "ricotta de brebis",
+                "oignons rouges"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Buffalo Bufala",
+            "price": {
+                "value": 15.0,
+                "currency": "€"
+            },
+            "description": "Tomates San Marzano D.O.P, mozzarella Fior di Latte, boeuf, Bufala, basilic, œuf poché",
+            "ingredients": [
+                "tomates San Marzano D.O.P",
+                "mozzarella Fior di Latte",
+                "boeuf",
+                "Bufala",
+                "basilic",
+                "œuf poché"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "La Reine des truffes",
+            "price": {
+                "value": 18.0,
+                "currency": "€"
+            },
+            "description": "Mozzarella Fior di Latte, crème de truffe noire, champignons, jambon aux truffes, pignons de pin",
+            "ingredients": [
+                "mozzarella Fior di Latte",
+                "crème de truffe noire",
+                "champignons",
+                "jambon aux truffes",
+                "pignons de pin"
+            ],
+            "dietary": []
+        }
+    ]
+}

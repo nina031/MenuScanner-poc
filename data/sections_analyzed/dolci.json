@@ -1,0 +1,105 @@
+{
+    "name": "DOLCI",
+    "items": [
+        {
+            "name": "Pizzetta tressée au Nutella",
+            "price": {
+                "value": 7.0,
+                "currency": "€"
+            },
+            "description": "Petite pizza tressée garnie de Nutella",
+            "ingredients": [
+                "pâte à pizza",
+                "Nutella"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Tiramisu",
+            "price": {
+                "value": 7.0,
+                "currency": "€"
+            },
+            "description": "Dessert italien traditionnel à base de mascarpone, café et biscuits",
+            "ingredients": [
+                "mascarpone",
+                "café",
+                "biscuits",
+                "cacao"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Baba au rhum",
+            "price": {
+                "value": 6.0,
+                "currency": "€"
+            },
+            "description": "Baba imbibé de rhum avec mousseline au limoncello",
+            "ingredients": [
+                "baba",
+                "rhum",
+                "crème mousseline",
+                "limoncello"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Mousse al cioccolato della Nonna",
+            "price": {
+                "value": 6.0,
+                "currency": "€"
+            },
+            "description": "Mousse au chocolat traditionnelle de grand-mère",
+            "ingredients": [
+                "chocolat",
+                "œufs",
+                "crème"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Panna cotta",
+            "price": {
+                "value": 6.0,
+                "currency": "€"
+            },
+            "description": "Panna cotta accompagnée d'une soupe de fruits de saison",
+            "ingredients": [
+                "crème",
+                "gélatine",
+                "fruits de saison"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Café gourmand",
+            "price": {
+                "value": 8.0,
+                "currency": "€"
+            },
+            "description": "Café servi avec une sélection de mignardises",
+            "ingredients": [
+                "café",
+                "assortiment de petits desserts"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Gorgonzola fondante",
+            "price": {
+                "value": 7.0,
+                "currency": "€"
+            },
+            "description": "Gorgonzola fondu servi à la louche avec chutney de poire et balsamique blanc",
+            "ingredients": [
+                "gorgonzola",
+                "poire",
+                "vinaigre balsamique blanc"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        }
+    ]
+}

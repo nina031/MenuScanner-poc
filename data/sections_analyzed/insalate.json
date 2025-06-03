@@ -1,0 +1,58 @@
+{
+    "name": "INSALATE",
+    "items": [
+        {
+            "name": "Ave Caesar",
+            "price": {
+                "value": 12.5,
+                "currency": "€"
+            },
+            "description": "Salade romaine, sauce caesar, pancetta grillée, suprême de volaille, oeuf poché, croûtons, parmesan",
+            "ingredients": [
+                "salade romaine",
+                "sauce caesar",
+                "pancetta",
+                "suprême de volaille",
+                "oeuf poché",
+                "croûtons",
+                "parmesan"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "La Prima Donna",
+            "price": {
+                "value": 12.5,
+                "currency": "€"
+            },
+            "description": "Toast chaud de gorgonzola, noisettes grillées, chiffonade de Coppa, balsamique blanc, miel et huile d'olive",
+            "ingredients": [
+                "gorgonzola",
+                "noisettes",
+                "coppa",
+                "balsamique blanc",
+                "miel",
+                "huile d'olive",
+                "toast"
+            ],
+            "dietary": []
+        },
+        {
+            "name": "Verdure Burrata",
+            "price": {
+                "value": 13.0,
+                "currency": "€"
+            },
+            "description": "Légumes marinés, Burrata, pignons de pain, pesto Genovese",
+            "ingredients": [
+                "légumes marinés",
+                "burrata",
+                "pignons de pain",
+                "pesto genovese"
+            ],
+            "dietary": [
+                "végétarien"
+            ]
+        }
+    ]
+}
